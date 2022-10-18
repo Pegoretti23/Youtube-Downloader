@@ -1,4 +1,4 @@
-# YT Download with pyautogui
+# YT Download with pyautogui5
 
 A simple app for download videos from youtube
 
